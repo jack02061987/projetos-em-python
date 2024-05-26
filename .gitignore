@@ -141,7 +141,7 @@ GitHub.sublime-settings
 __pycache__/
 *.pyc
 --localcode
-venv
+venv/
 env.DS_Store
 local_settings.py
 _local_settings.py
